@@ -24,6 +24,7 @@ ul li {
 ul li:first-child, 
 ul li:last-child {
   font-size: 22px;
+ background-color:white;
 }
 
 ul li:nth-last-child(3) {
