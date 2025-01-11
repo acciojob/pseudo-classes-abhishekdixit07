@@ -11,7 +11,7 @@ ul li:last-child {
 ul li:nth-last-child(3) {
     background-color: pink;
 }
-p:last-child {
+p:last-child{
     color: red;
 }
 p:first-child {
